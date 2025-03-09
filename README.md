@@ -16,7 +16,7 @@ The methods used in the analysis are as follows:
 Data Collection, Exploratory Data Analysis, Statistical Analysis - correlations, Linear regression, Logistics regression, Random Forest, Decision Trees, K-Nearest Neighbour
 ## Insights from the analysis and modeling
 This histogram illustrates the distribution of well construction years, revealing a significant rise in well development since the 1960s, with a peak in the late 2000s.
-
+https://github.com/Kurgat-Bee/PHASE-03-PROJECT/blob/622cb738efc8450735a5a4ad75456682da554eb5/Histogram%20of%20construction%20of%20wells.png
 This plot shows well status by location.
 
 Well performance over construction years.
