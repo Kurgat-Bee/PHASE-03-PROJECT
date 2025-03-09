@@ -61,7 +61,7 @@ n_estimators: 300
 - More recent wells are more likely to be functional than aged wells. The presence of non-functional wells in all time periods highlights that factors beyond age also play a role in well performance.
 
 
-## Reccomendations
+## Recomendations
 
 - Once the most influential factors affecting well functionality are identified, analyze their impact—do they contribute positively or negatively? Understanding these relationships will help the government of Tanzania make informed investment decisions to enhance well longevity.
 
