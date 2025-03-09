@@ -19,30 +19,33 @@ This histogram illustrates the distribution of well construction years, revealin
 
 ![image](https://github.com/Kurgat-Bee/PHASE-03-PROJECT/blob/f5067e212da8d41f35937ff06febf97d2ddf48f3/images/Histogram%20of%20construction%20of%20wells.png)
 
-This plot shows well status by location.
+This plot shows well status by location. Non-functional wells are spread across the region but are more concentrated in the south eastern parts.
 
 ![image](https://github.com/Kurgat-Bee/PHASE-03-PROJECT/blob/84fbfd97ae32f7e0f51d10e4c239279f4abb9a56/images/Well%20status%20by%20location.png)
 
-Well performance over construction years.
+Well performance over construction years. Older wells tend to have a higher proportion of non-functional status. More recent wells are more likely to be functional.
+
 
 ![image](https://github.com/Kurgat-Bee/PHASE-03-PROJECT/blob/f5067e212da8d41f35937ff06febf97d2ddf48f3/images/Well%20performance%20over%20the%20years.png)
 
-Comparison between model performances
+Comparison between model performances. Random Forest is the best choice to maximize predictive performance and correctly classify as many wells as possible.
 
 ![image](https://github.com/Kurgat-Bee/PHASE-03-PROJECT/blob/f5067e212da8d41f35937ff06febf97d2ddf48f3/images/Model%20comparison.png)
 
-Comparison of the confusion matrices of the different models
+Comparison of the confusion matrices of the different models. Random Forest (Optimized) is the most reliable model, making it the best choice for minimizing misclassifications.
 
-![image](https://github.com/Kurgat-Bee/PHASE-03-PROJECT/blob/84fbfd97ae32f7e0f51d10e4c239279f4abb9a56/images/Confusion%20matrices.png)
+![image](https://github.com/Kurgat-Bee/PHASE-03-PROJECT/blob/04707863105b54c6a4b56cd3aecc7ee59e2f8abe/images/Confusion%20matrices.png)
 
 ## Conclusions
 - The Optimised Random Forest model stands out as the best performing model with:
 
-Accuracy-85.30%
+Accuracy-85.38%
 
-Recall-92.53%
+Recall-92.39%
 
-F1-score-88.60% 
+Precision-85.17%
+
+F1-score-88.63%.
 
 - The best parameters after tuning are:
 
